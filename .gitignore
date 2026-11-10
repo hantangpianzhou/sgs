@@ -1,0 +1,6 @@
+# 临时工作目录（生成脚本/模板/后台任务注册与日志）
+.temp/
+
+# Windows 系统文件
+Thumbs.db
+desktop.ini
