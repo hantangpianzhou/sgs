@@ -72,3 +72,5 @@ sgs/
 - 归一化 / 入库脚本：Python（Pillow），置于 `.temp/`（不入库）
 - 贴吧采集：贴吧客户端公开 API（`big_cdn_src` 最高质量变体）
 - 预览页实测：Playwright（file 协议受限时经本地 HTTP 服务验证）
+
+> AI生成
